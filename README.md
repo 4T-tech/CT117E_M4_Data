@@ -31,7 +31,9 @@
 ## 订购渠道
 
 ① 官方淘宝：gxct@taobao.com
+
 ② 四梯商城：https://www.4t.wiki/mall
+
 ③ 官方京东：https://mall.jd.com/index-16359606.html
 
 ## 学习资源获取
