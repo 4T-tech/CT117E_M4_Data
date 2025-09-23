@@ -10,7 +10,7 @@
 - Example_Data2：嵌入式设计与开发实训指导配套例程
 - Hardware_Data：CT117E硬件平台相关硬件资料
   - CT117E硬件平台相关芯片手册
-  - 功能测试程序.hex
+  - CT117E-M4_test.hex：功能测试程序
   - 原理图
 
 - Tools
@@ -19,10 +19,12 @@
   - STM32G431 pack包
   - MDK539.exe：Keil MDK环境安装包
   - PDF阅读器
+  - AC5编译器
 
 - USB_Driver：USB驱动_CT117E开发板与PC连接时的USB端口驱动
-- image:图片
+- Image:图片
 - LICENSE：许可证
+- CT117E_M4_UM.pdf：四梯嵌入式竞赛实训平台用户手册
 
 ## 订购渠道
 
