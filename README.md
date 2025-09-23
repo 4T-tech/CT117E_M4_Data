@@ -1,5 +1,7 @@
 # CT117E_M4_Data
+
 四梯嵌入式竞赛实训平台（MCU型号为STM32G431RBT6） 资料包
+
 
 
 ## 文件结构
@@ -25,8 +27,12 @@
 ## 订购渠道
 
 ① 官方淘宝：gxct@taobao.com
+
 ② 四梯商城：https://www.4t.wiki/mall
+
 ③ 官方京东：https://mall.jd.com/index-16359606.html
+
+
 
 ## 学习资源获取
 
@@ -36,5 +42,3 @@
   - 学习资源：https://www.4t.wiki/curriculum
 - Bilibili平台：参赛选手经验分享、试题解析，B站搜索“四梯科技”
 - 微信公众号：微信搜索“四梯”
-
-  
