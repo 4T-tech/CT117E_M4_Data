@@ -7,28 +7,34 @@
 ## 文件结构
 
 - Example_Data1：CT117E硬件平台例程
+
 - Example_Data2：嵌入式设计与开发实训指导配套例程
+
 - Hardware_Data：CT117E硬件平台相关硬件资料
   - CT117E硬件平台相关芯片手册
   - CT117E-M4_test.hex：功能测试程序
   - 原理图
 
 - Tools
-  - 串口调试助手
-  - STM32_CUBE_MX
+  - STM32_CUBE_MX下载地址：https://www.st.com.cn/zh/development-tools/stm32cubemx.html#get-software
+  - MDK-ARM下载地址：https://www.keil.com/demo/eval/arm.htm#/DOWNLOAD
   - STM32G431 pack包
-  - MDK539.exe：Keil MDK环境安装包
   - PDF阅读器
   - AC5编译器
-
+  
 - USB_Driver：USB驱动_CT117E开发板与PC连接时的USB端口驱动
+
 - Image:图片
+
 - LICENSE：许可证
+
 - CT117E_M4_UM.pdf：四梯嵌入式竞赛实训平台用户手册
+
+  
 
 ## 订购渠道
 
-① 官方淘宝：gxct@taobao.com
+① 官方淘宝：[gxct.taobao.com]()
 
 ② 四梯商城：https://www.4t.wiki/mall
 
